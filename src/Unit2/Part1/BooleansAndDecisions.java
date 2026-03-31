@@ -1,6 +1,6 @@
 package Unit2.Part1;
 
-public class BooleansAndDecisions {
+/*public class BooleansAndDecisions {
     static void main(String[] args){
         //boolean expressions  a.k.a. condition
         // >
@@ -50,3 +50,4 @@ public class BooleansAndDecisions {
 
     }
 }
+*/
